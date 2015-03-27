@@ -1,5 +1,13 @@
 # w
-$\sqrt{3/5}$
+
+Exp $\sqrt{3/5}$
+
+text
+
 ```math #yourmathlabel
 a + b = c
 ```
+
+more text
+
+
